@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+*.log
+.DS_Store
+Thumbs.db
+prompt_security_dataset.csv
